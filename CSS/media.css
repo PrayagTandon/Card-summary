@@ -1,0 +1,14 @@
+/* At 450px ~ 29em */
+
+@media (max-width: 29em) {
+  html {
+    font-size: 50%;
+  }
+
+  .background-img {
+    background-image: url(/images/pattern-background-mobile.svg);
+  }
+  .text {
+    padding: 1.8rem;
+  }
+}
