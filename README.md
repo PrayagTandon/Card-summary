@@ -8,7 +8,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -30,10 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Solution URL](https://github.com/PrayagTandon/Card-summary)
+- Live Site URL: [Live site URL](https://card-summary-prayag.netlify.app/)
 
 ### Built with
 
@@ -44,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Prayag Tandon](https://prayag.webflow.io/)
+- Frontend Mentor - [@PrayagTandon](https://www.frontendmentor.io/profile/PrayagTandon)
